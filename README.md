@@ -10,7 +10,7 @@ This project demonstrates the deployment of a cloud-based static web application
 - Implement alert system for activity detection
   
 ## Architecture
-User → Azure Storage ($web) → Azure Monitor → Alert Rule → Email Notification
+User → Azure Storage → Azure Monitor → Alert Rule → Email Notification
 
 ## Technologies Used
 - Microsoft Azure  
