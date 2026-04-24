@@ -50,11 +50,24 @@ User → Azure Storage → Azure Monitor → Alert Rule → Email Notification
 - Alert triggered successfully  
 - Email notification received
 
+## 🚀 Final Result
+- Successfully deployed a static website on Azure
+- Implemented monitoring using Azure Monitor
+- Configured alert system to detect storage activity
+- Verified real-time alert triggering through file upload actions
+- Received email notifications upon activity detection
+
 ## Key Learnings
 - Understanding of cloud storage and static hosting  
 - Importance of logging and monitoring in cloud environments  
 - Basic implementation of alert-based detection system  
 - Hands-on experience with Azure service
+
+## 🛠️ Tools Used
+- Microsoft Azure
+- Azure Storage Account
+- Azure Monitor
+- Azure Alerts
 
 ## 👤 Author
 Steven Ling
